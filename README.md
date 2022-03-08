@@ -1,4 +1,4 @@
-# empresaTransporte
+# Empresa de Transporte
 
 #### Bienvenido a la empresa de transporte.
  Se desea realizar una aplicación para el manejo de una mini empresa de transporte. La empresa tiene capacidad para administrar 4 camiones y sus cargas respectivas.
